@@ -404,14 +404,7 @@ For a deep dive into the complete system architecture, training mechanics, infer
 
 ---
 
-## 👥 Team
 
-| Name |
-|:-----|
-| **Vishal Gowda** |
-| **Jaden** |
-| **Gideon Mire** |
-| **Yash Naik** |
 
 ---
 

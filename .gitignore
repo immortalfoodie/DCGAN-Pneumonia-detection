@@ -1,0 +1,20 @@
+# Dataset directories (very large - thousands of images)
+chest_xray/
+data/
+
+# Model checkpoints (too large for GitHub, >100MB)
+**/*.pth
+
+# Generated images from GAN training
+generated_images/
+
+# Python cache
+**/__pycache__/
+*.pyc
+*.pyo
+**/.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+__MACOSX/
